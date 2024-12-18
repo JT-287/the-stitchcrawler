@@ -695,7 +695,7 @@ if (story.checkLastAnswer("the archives")) {
         story.printText("access denined", 73, 5, 7, 15, story.TextSpeed.Slow)
     }
 }
-story.printText("find all seven cores and use the radar gun to detect anything unusual. do keep in mind that you have a limited supply of energy.", 73, 5, 7, 15, story.TextSpeed.Slow)
+story.printText("find all five cores and use the radar gun to detect anything unusual. do keep in mind that you have a limited supply of energy.", 73, 5, 7, 15, story.TextSpeed.Slow)
 story.printText("prepare yourself", 73, 5, 7, 15, story.TextSpeed.Slow)
 scene.setBackgroundImage(img`
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
